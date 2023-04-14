@@ -1,3 +1,5 @@
+https://polite-rock-0db10f410.3.azurestaticapps.net
+
 # Assignment1
 
 This template should help get you started developing with Vue 3 in Vite.
