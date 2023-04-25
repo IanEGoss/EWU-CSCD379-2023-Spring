@@ -79,3 +79,4 @@ The course work will be cross-platform. However, in class the instructors will b
 - Make sure all the extensions are installed
 - Restart VS Code
 - Pull the repo again and see if the unmodified version works
+sss
